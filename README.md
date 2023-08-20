@@ -7,15 +7,15 @@ Get the apartment listings for all of Germany. The scraper will go through every
 ## Features
 Median rents over time:
 
-![](data_analysis/rent_timeseries_plot.png)
+![](data_analysis/rent_timeseries_plot.jpg)
 
 Median saleprices over time:
 
-![](data_analysis/sale_timeseries_plot.png)
+![](data_analysis/sale_timeseries_plot.jpg)
 
 Gaussian outlier detection:
 
-![](data_analysis/sale_outlier.png)
+![](data_analysis/sale_outlier.jpg)
 
 ## Installation
 After cloning the repository you can use Pipenv to set up a virtual environment. Pipenv itself can be installed with pip:
